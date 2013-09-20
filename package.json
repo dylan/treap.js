@@ -1,0 +1,39 @@
+{
+  "name": "treap.js",
+  "version": "0.0.1",
+  "description": "treap.js ========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dylan/treap.js.git"
+  },
+  "keywords": [
+    "treap",
+    "data",
+    "structure"
+  ],
+  "author": "Dylan Wreggelsworth",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "483c8da4784323c9ba62e4581f860df5fd220c92",
+  "bugs": {
+    "url": "https://github.com/dylan/treap.js/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "coffee-script": "~1.6.3",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-coffeelint": "0.0.7",
+    "grunt-contrib-watch": "~0.5.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-jasmine": "~0.5.1",
+    "grunt-notify": "~0.2.11",
+    "grunt-benchmark": "~0.2.0"
+  }
+}
